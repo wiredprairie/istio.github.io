@@ -38,7 +38,7 @@ as it flows over networks of varying degrees of trustability.
 
 In addition to these behaviors, Istio is designed for extensibility to meet diverse deployment needs:
 
-- **Platform Support**. Istio is designed to run in a variety of environments including ones that span Cloud, on-premise, Kubernetes, Mesos etc. We’re 
+- **Platform Support**. Istio is designed to run in a variety of environments including ones that span Cloud, on-premises, Kubernetes, Mesos etc. We’re 
 initially focused on Kubernetes but are working to support other environments soon.
 
 - **Integration and Customization**. The policy enforcement component can be extended and customized to integrate with existing solutions for 
